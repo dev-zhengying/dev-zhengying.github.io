@@ -400,7 +400,7 @@ zh: &DEFAULT_ZH_HANS
   comments_title             : "评论"
   more_label                 : "了解更多"
   related_label              : "猜您还喜欢"
-  follow_label               : "Follow:"
+  follow_label               : "Follow"
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
   website_label              : "网站"

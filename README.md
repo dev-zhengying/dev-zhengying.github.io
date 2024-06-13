@@ -1,6 +1,6 @@
-# ZHENGYING.DEV
+# DEVELOPER ZHENG YING
 
-静态博客站
+Jekyll 静态博客站
 
 ## POWERED BY
 
