@@ -64,7 +64,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio: "..."
   links:
-    - label: "pm@zhengying.dev"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:pm@zhengying.dev"
     - label: "GitHub"
@@ -73,9 +73,6 @@ author:
 
 footer:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:pm@zhengying.dev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dev-zhengying"
