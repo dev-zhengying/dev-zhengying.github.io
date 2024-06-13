@@ -62,23 +62,23 @@ plugins:
 author:
   name   : "郑颖"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : ""
+  bio: "..."
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/dev-zhengying"
     - label: "pm@zhengying.dev"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:pm@zhengying.dev"
-
-footer:
-  links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dev-zhengying"
+
+footer:
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:pm@zhengying.dev"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/dev-zhengying"
 
 defaults:
   # _posts
